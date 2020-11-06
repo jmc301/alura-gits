@@ -15,6 +15,8 @@
 
         //var_dump($resultado);
 
+        // alterei essa linha
+
         foreach ($resultado->results as $ator) {
             //var_dump($ator);
             echo "Nome: " . $ator->name . "<br>";
