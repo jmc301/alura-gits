@@ -17,6 +17,8 @@
 
         // alterei essa linha
 
+        //Essa ficou na minha Branch DEVTESTE
+
         foreach ($resultado->results as $ator) {
             //var_dump($ator);
             echo "Nome: " . $ator->name . "<br>";
